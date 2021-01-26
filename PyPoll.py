@@ -78,5 +78,6 @@ with open(file_to_save, "w") as txt_file:
         f"Winning Percentage : {winning_percentage:.1f}\n"
         f"-------------------------------\n"
     )
+    # Print the winning candidate summary to terminal
     print(winning_candidate_summary)
-=    txt_file.write(winning_candidate_summary)
+    txt_file.write(winning_candidate_summary)
