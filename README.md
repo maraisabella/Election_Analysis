@@ -55,6 +55,7 @@ The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
 The results from the terminal correlate to the same results shown earlier from the election_results.txt file.
+
 ![](Resources/terminal.png)
 
 
