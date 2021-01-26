@@ -54,6 +54,12 @@ The candidate results were as followed:
 The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
+The results from the terminal correlate to the same results shown earlier from the election_results.txt file.
+
+![](Resources/terminal.png)
+
+
+  
 # Election-Audit Summary  
  Through the use of a Python script, we were able to achieve a good insight for the important statistical numbers of the election such as voter turnout percentage, and quantity of votes. This script could be used for any election by simply modifying the csv file and adjusting lines of code s needed for any sort of questions that are hoped to be answered through an in-depth analysis. 
  
